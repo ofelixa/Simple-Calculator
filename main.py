@@ -11,10 +11,10 @@ if operator in ["add", "Add", "+", "addition", "Addition"]:
 elif operator in ["subtract", "Subtract", "minus", "Minus", "-"]:
     result2
     print(f"= {result2}")
-elif operator in ["multiply", 'Multiply', "*", "multiplication", "Multiplication", "times", "Times","x","X"]:
+elif operator in ["multiply", 'Multiply', "*", "multiplication", "Multiplication", "times", "Times", "x", "X"]:
     result3
     print(f"= {result3}")
-elif operator in ["divide","Divide","Division", "division","/",]:
+elif operator in ["divide", "Divide", "Division", "division", "/"]:
     result4
     print(f"= {result4}")
 else:
